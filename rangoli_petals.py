@@ -114,5 +114,5 @@ if __name__ == "__main__":
     turtle.home()
 	
     #exit the turtle class on click()
-    turtle.exitonclick()
+    turtle.Screen().exitonclick()
     
