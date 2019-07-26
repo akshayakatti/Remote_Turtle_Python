@@ -94,8 +94,7 @@ if __name__ == "__main__":
     remote_circle.pendown()
 
     #exit the turtle class on click()
-    turtle.exitonclick()
-
+    turtle.Screen().exitonclick()
     
 
     
